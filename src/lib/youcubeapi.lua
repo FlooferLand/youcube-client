@@ -33,9 +33,9 @@ end
 -- Contact the server owner on Discord, when the server is down
 local servers = {
     "ws://127.0.0.1:5000", -- Your server!
-    "wss://youcube-server-ixd1.onrender.com",  -- By FlooferLand
-    "wss://youcube.knijn.one", -- By EmmaKnijn#0043
     "wss://youcube.onrender.com", -- By Commandcracker#8528
+    "wss://youcube.knijn.one", -- By EmmaKnijn#0043
+    "wss://youcube-server-ixd1.onrender.com" -- By FlooferLand
 }
 
 if settings then
